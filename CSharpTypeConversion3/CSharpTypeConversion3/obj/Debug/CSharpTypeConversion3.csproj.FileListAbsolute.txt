@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpTypeConversion3\CSharpTypeConversion3\bin\Debug\CSharpTypeConversion3.exe.config
+c:\visual studio 2013\Projects\CSharpTypeConversion3\CSharpTypeConversion3\bin\Debug\CSharpTypeConversion3.exe
+c:\visual studio 2013\Projects\CSharpTypeConversion3\CSharpTypeConversion3\bin\Debug\CSharpTypeConversion3.pdb
+c:\visual studio 2013\Projects\CSharpTypeConversion3\CSharpTypeConversion3\obj\Debug\CSharpTypeConversion3.csprojResolveAssemblyReference.cache
+c:\visual studio 2013\Projects\CSharpTypeConversion3\CSharpTypeConversion3\obj\Debug\CSharpTypeConversion3.exe
+c:\visual studio 2013\Projects\CSharpTypeConversion3\CSharpTypeConversion3\obj\Debug\CSharpTypeConversion3.pdb
